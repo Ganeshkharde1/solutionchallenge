@@ -13,7 +13,7 @@
 
 ```bash
 python app.py
-
+```
 
 ## The Architecture of the Project
 
