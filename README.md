@@ -11,7 +11,10 @@
 ### Install the Libraries
 
 - pyrebase
-- streamlit
+- flask
+- pickle
+- numpy
+  
 
 ### Open CMD in Current Directory
 
