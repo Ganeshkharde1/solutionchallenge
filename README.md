@@ -8,13 +8,23 @@
 
 ### Clone the Repository on Local Machine
 
-### Install the Libraries
 
+### Python SDK Version
+```bash
+Python 3.10 or higher version
+```
+
+
+
+### Install the Libraries
+```bash
 - pyrebase
 - flask
 - pickle
 - numpy
-  
+- Tensorflow
+- sklearn
+  ```
 
 ### Open CMD in Current Directory
 
