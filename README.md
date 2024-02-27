@@ -40,4 +40,4 @@ python app.py
 
 <img src="https://github.com/Ganeshkharde1/solutionchallenge/blob/main/cloud-architecture.png" alt="drawing" width="700"/>
 
-[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
+[![](https://visitcount.itsvg.in/api?id=ganeshkharde1/solutionchallenge&icon=2&color=1)](https://visitcount.itsvg.in)
