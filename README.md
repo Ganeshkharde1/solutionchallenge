@@ -13,3 +13,8 @@
 
 ```bash
 python app.py
+
+
+## The Architecture of the Project
+
+<img src="https://github.com/Ganeshkharde1/solutionchallenge/working-architecture.png" alt="drawing" width="500"/>
